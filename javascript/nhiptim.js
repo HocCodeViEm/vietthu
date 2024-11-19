@@ -188,5 +188,5 @@ getclickf.addEventListener('click', function(){
 var cantho = document.querySelector('.main');
 cantho.insertAdjacentHTML('afterend', '<div class="author mt-5"><div class="row"><div class="col-12"><div class="me text-danger text-right"></div></div></div></div>');
 
-document.querySelector('.Description .modal-title').innerHTML = '<i class="far fa-comment-alt"></i>&nbsp;Nhịp tim như vậy là vì';
-document.querySelector('.Description .modal-body').innerHTML = 'Anh thích em <i class="fas fa-heart"></i> ';
+document.querySelector('.Description .modal-title').innerHTML = '<i class="far fa-comment-alt"></i>&nbsp;Nhịp tim như z là vì';
+document.querySelector('.Description .modal-body').innerHTML = 'Anh yêu em <i class="fas fa-heart"></i> ';
